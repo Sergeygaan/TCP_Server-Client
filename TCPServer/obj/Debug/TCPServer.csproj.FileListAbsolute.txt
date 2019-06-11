@@ -1,0 +1,9 @@
+C:\Users\Sergey\Desktop\TCP\TCP\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\Sergey\Desktop\TCP\TCP\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Sergey\Desktop\TCP\TCP\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Sergey\Desktop\TCP\TCP\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Users\Sergey\Desktop\TCP\TCP\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\TCP\TCP\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\TCP\TCP\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Sergey\Desktop\TCP\TCP\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\Sergey\Desktop\TCP\TCP\TCPServer\obj\Debug\TCPServer.TCPServer.resources

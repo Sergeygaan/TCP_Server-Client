@@ -1,0 +1,9 @@
+C:\Users\Sergey\Desktop\TCP\TCP\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Sergey\Desktop\TCP\TCP\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Sergey\Desktop\TCP\TCP\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Sergey\Desktop\TCP\TCP\TCPClient\obj\Debug\TCPClient.TCPClient.resources
+C:\Users\Sergey\Desktop\TCP\TCP\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Sergey\Desktop\TCP\TCP\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\TCP\TCP\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\TCP\TCP\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Sergey\Desktop\TCP\TCP\TCPClient\obj\Debug\TCPClient.pdb
